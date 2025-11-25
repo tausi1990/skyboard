@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# macOS junk files
+.DS_Store
+
+# VS Code / JetBrains settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compressed files
+*.zip
+
+# Local data that shouldn't be committed
+data/**/*.tmp
+data/**/*.bak
